@@ -1,0 +1,4 @@
+/node_modules
+
+# sensitive data eg. password, tokens
+.env
